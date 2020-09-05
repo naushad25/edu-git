@@ -1,2 +1,2 @@
 # edu-git
-We are doing ths demo
+This is for learning git
